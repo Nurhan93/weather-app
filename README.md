@@ -24,6 +24,6 @@ This allows to map the data from the layer above to AsyncValue objects that can 
 
 # Supported Features
 
- 1- Current weather (condition and temperature)
- 2- 5-day weather forecast
- 3- Search by city
+ 1- Current weather (condition and temperature) 
+ 2- 5-day weather forecast 
+ 3- Search by city 
