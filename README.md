@@ -21,3 +21,9 @@ Widgets do not communicate directly with the repository.
 Instead, they watch some controllers that extend the StateNotifier class (using Riverpod).
 
 This allows to map the data from the layer above to AsyncValue objects that can be mapped to the appropriate UI states (data, loading, error).
+
+# Supported Features
+
+ Current weather (condition and temperature)
+ 5-day weather forecast
+ Search by city
