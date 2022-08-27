@@ -6,6 +6,8 @@ this is my screen shot for my app
 
 i used a clean archticture for this app that contain 2 layers:
 
+# App Architecture
+
 # Data Layer
 
 The data layer contains a single weather repository that is used to fetch weather data from the OpenWeatherMap API.
