@@ -2,7 +2,10 @@
 This is my screen shot for my app by using WeatherAPI 
 https://openweathermap.org/appid
 
-![Screen Shot 2022-08-27 at 9 52 34 AM](https://user-images.githubusercontent.com/26325414/187028729-88273174-674a-4b22-b443-a643a126673f.png)
+
+
+Uploading 146080310-d9596661-e0d4-4f92-8827-3ab1aaa850d6.mov…
+
 
 
 i used a clean archticture for this app that contain 2 layers:
@@ -31,5 +34,4 @@ This allows to map the data from the layer above to AsyncValue objects that can 
  2- 5-day weather forecast 
  3- Search by city 
 
-# screen shot vedio:
-you can find my vedio above called weather app demo
+
